@@ -1,0 +1,14 @@
+# Testing Folder
+/.test
+
+# Compiled class file
+*.class
+
+# Complied exe file
+*.exe
+
+# VS code Setting File
+/.vscode
+
+# tempCodeRunnerFile 
+tempCodeRunnerFile.java

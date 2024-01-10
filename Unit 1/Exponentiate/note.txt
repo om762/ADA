@@ -1,0 +1,1 @@
+for big value of n compare the naive algorithm of exponentiate and binary squaring alogorithm. 
